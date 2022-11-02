@@ -48,15 +48,15 @@ p{
   text-align: center;
   width: 400px;
   margin: 10px auto;
-  background: #ffffff;
+  background: #000000;
   padding: 30px;
-  border-radius: 4px;
+  border-radius: 50%;
 }
 #links {
   text-align: center;
   width: 400px;
   margin: 10px auto;
-  background: #DEB841;
+  background: #000000;
   padding: 30px;
   border-radius: 4px;
 }
