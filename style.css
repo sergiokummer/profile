@@ -6,7 +6,7 @@ body {
 
 h1{
   font-family: 'Trispace', sans-serif;
-  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  background-image: linear-gradient(to left, rgb(85, 44, 85), rgb(192, 163, 212), rgb(11, 11, 169), rgb(23, 227, 23), rgb(227, 227, 28), rgb(185, 144, 68), rgba(174, 39, 39, 0.774));
   -webkit-background-clip: text;
   color: transparent;
 }
@@ -35,6 +35,15 @@ p{
   padding: 10px 20px;
   border-radius: 5px;
 }
+.escondido{
+  text-decoration: none;
+  opacity: 0;
+}
+.escondido:hover{
+  color: #A41623;
+  background-color: #33658A;
+  opacity: 1;
+}
 #titulo {
   text-align: center;
   width: 400px;
@@ -50,6 +59,9 @@ p{
   background: #DEB841;
   padding: 30px;
   border-radius: 4px;
+}
+#full{
+  color: #F1C40F;
 }
 img{
   width: 110px;
