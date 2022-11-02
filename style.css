@@ -35,11 +35,11 @@ p{
   padding: 10px 20px;
   border-radius: 5px;
 }
-.escondido{
+#escondido{
   text-decoration: none;
   opacity: 0;
 }
-.escondido:hover{
+#escondido:hover{
   color: #A41623;
   background-color: #33658A;
   opacity: 0.1;
