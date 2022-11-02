@@ -42,7 +42,7 @@ p{
 .escondido:hover{
   color: #A41623;
   background-color: #33658A;
-  opacity: 1;
+  opacity: 0.1;
 }
 #titulo {
   text-align: center;
